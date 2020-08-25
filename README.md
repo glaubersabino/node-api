@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">Como Instalar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">Como Instalar?</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Tecnologias
@@ -31,7 +31,7 @@ Este projeto foi desenvolvido no curso de NodeJS básico da Rocketseat. Foram ut
 
 ## :information_source: Como instalar?
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+Para clonar o diretório é necessário ter o git instalado.
 
 ```bash
 # Clone this repository
